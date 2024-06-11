@@ -2,7 +2,7 @@
 let nome = "Hero"
 console.log ("Parabéns por chegar até aqui, " + nome + ". Você se provou um grande herói. Vamos ver quantos pontos você coletou até agora!")
 
-//varíaveis do XP
+//varíaveis do XP (valores fantasia para multiplicadores de pontos)
 let monstrosDerrotados = 15
 let itensColetados = 7
 let questsCompletas = 3
